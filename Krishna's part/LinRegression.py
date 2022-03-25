@@ -33,7 +33,6 @@ for i in range(len(dates)) :
             dates_1.append(dates[i])
             times.append(time.iloc[j])
 
-print(y)
 
 #data set 2
 

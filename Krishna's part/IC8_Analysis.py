@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv('./finaldata.csv')
+df = pd.read_csv('./finaldata822.csv')
 pd.set_option('display.max_columns', None)
 unique_locations = []
 for row in df['bp_from']:
